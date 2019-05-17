@@ -10,7 +10,7 @@ The following is the archive of my independently published magazine, Unspecified
 
 **The Final Issue: Operation Sharing**
 
-[![The Final Issue: Operation Sharing](https://danegonzalez.com/wp-content/uploads/2015/02/UM_FinalIssue_Cover.jpg)] [UM Final Issue]
+[![The Final Issue: Operation Sharing](https://danegonzalez.com/wp-content/uploads/2015/02/UM_FinalIssue_Cover.jpg)][UM Final Issue]
 
 The final issue of Unspecified Mag featuring local church organization, Operation Sharing.
 
