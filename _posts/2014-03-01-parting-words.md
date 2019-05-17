@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Parting Words
-categories: [journal, projects, life]
-tags: [design, personal project, unspecified mag]
+categories: [journal]
 ---
 
 When I began [this magazine](https://danegonzalez.com/unspecified-mag/), my interest in design had just begun. Prior to my fascination with design, I had always loved to create things, yet I felt my mind was too rationally-oriented to just be a regular artist. Art felt too subjective for me to consider it as a career interest. I needed an outlet for channeling this objective part of my mind, so I had ruled out art as a possible career for that reason. So prior to learning about web design and graphic design, I had thought I was going to go to school to become a chemical engineer. After all, I have been relatively good at math and science in primary school and in my future job I would be creating and making things for practical purposes. Although I was pretty good at math and science, I never really had a passion for it outside of school; the chemical engineering thing just seemed like the right fit for the type of person I was.
