@@ -19,7 +19,7 @@ The final issue of Unspecified Mag featuring local church organization, Operatio
 
 ## Fall 2013: Lauren Novencido
 
-![](https://danegonzalez.com/wp-content/uploads/2015/02/UM_Fall13_Cover.jpg)[UM Fall 2013]
+[![](https://danegonzalez.com/wp-content/uploads/2015/02/UM_FinalIssue_Cover.jpg)] [UM Final Issue]
 
 The one-year anniversary, Halloween edition of Unspecified Mag. This fall 2013 issue features local painter and artist, Lauren Novencido.
 
