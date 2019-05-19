@@ -10,38 +10,38 @@ The following is the archive of my independently published magazine, Unspecified
 
 ## The Final Issue: Operation Sharing
 
-![](https://danegonzalez.com/wp-content/uploads/2015/02/UM_FinalIssue_Cover.jpg) [UM Final Issue]
+![](https://danegonzalez.com/wp-content/uploads/2015/02/UM_FinalIssue_Cover.jpg)[UM Final Issue]
 
 The final issue of Unspecified Mag featuring local church organization, Operation Sharing.
 
-### [View Issue] [UM Final Issue]
+### [View Issue][UM Final Issue]
 
 
 ## Fall 2013: Lauren Novencido
 
-![](https://danegonzalez.com/wp-content/uploads/2015/02/UM_Fall13_Cover.jpg) [UM Fall 2013]
+![](https://danegonzalez.com/wp-content/uploads/2015/02/UM_Fall13_Cover.jpg)[UM Fall 2013]
 
 The one-year anniversary, Halloween edition of Unspecified Mag. This fall 2013 issue features local painter and artist, Lauren Novencido.
 
-### [View Issue] [UM Fall 2013]
+### [View Issue][UM Fall 2013]
  
 
 ## Summer 2013: Bloo Note
 
-![](https://danegonzalez.com/wp-content/uploads/2015/02/UM_Summer13_Cover1.jpg) [UM Summer 2013]
+![](https://danegonzalez.com/wp-content/uploads/2015/02/UM_Summer13_Cover1.jpg)[UM Summer 2013]
 
 The summer 2013 issue of Unspecified Mag, featuring indie rock band, Bloo Note.
 
-### [View Issue] [UM Summer 2013]
+### [View Issue][UM Summer 2013]
  
 
 **Spring 2013: VQ Fitness**
 
-![](https://danegonzalez.com/wp-content/uploads/2015/02/UM_Spring13_Cover.jpg) [UM Spring 2013]
+![](https://danegonzalez.com/wp-content/uploads/2015/02/UM_Spring13_Cover.jpg)[UM Spring 2013]
 
 The spring 2013 issue of Unspecified Mag featuring the boxing program at VQ Fitness.
 
-### [View Issue] [UM Spring 2013]
+### [View Issue][UM Spring 2013]
  
 
 **Winter 2013: First Love Skate Shop**
@@ -50,7 +50,7 @@ The spring 2013 issue of Unspecified Mag featuring the boxing program at VQ Fitn
 
 The first issue of Unspecified Mag. The winter 2013 issue featuring local skate shop, First Love.
 
-### [View Issue] [UM Winter 2013]
+### [View Issue][UM Winter 2013]
 
 
 	[UM Final Issue]: https://danegonzalez.com/wp-content/uploads/2015/02/5.-The-Final-Issue-Unspecified-Mag.pdf
