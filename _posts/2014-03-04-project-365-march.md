@@ -7,17 +7,13 @@ tags: [design, personal project, project 365]
 
 These are my lettering pieces from March 2014, **the 1st month and the beginning of my Project 365.** This is a project to create a new lettering piece every day for a year. This project was originally shared on my [Instagram](http://instagram.com/heyimdane) account – Watch the [Project 365 Recap Video](http://danegonzalez.com/365) and discover the "36.5 Things I've Learned from Creating Everyday for 365 Days" [Blog Post](http://danegonzalez.com/365)
 
-![] (http://danegonzalez.com/wp-content/uploads/2015/02/0-1024x762.jpg)
+![](http://danegonzalez.com/wp-content/uploads/2015/02/0-1024x762.jpg)
 
 With the end of my magazine, I have been vaguely mentioning moving on to bigger and better things and projects, but actually I have been ready to move on to one specific project I have been thinking about for a really long time now and am finally ready to share it with all of you.
 
 I will be beginning the project of creating something everyday for 365 days. I have the insatiable desire to get better everyday and believe this project will hold me accountable to this goal of mine. I want to create something of worth each day, and it may not be a different message each day, but it will be a different medium. This is because part of this project is me showing my design process. I want to show how I work. So, for example, I may show a drawing one day, a vector image of that drawing the next day, and the end result apply that vector to a video. I will begin this starting tomorrow and the hashtag will be #dg365 and as much as this project is for me, I hope I can inspire you guys through my work. So, hope you guys enjoy!
 
-<div class="video-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pei_Wn1qE5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
-</div>
-
-[](https://www.youtube.com/watch?v=pei_Wn1qE5I)
 
 I think ima do something like KineticTypographyTuesdays or something like that lol but I won't name it that cause it's too awkward lol. Anyway, I thought this song was appropriate on beginning this project. HAIM - Falling. (1/365)
 
@@ -25,7 +21,7 @@ I think ima do something like KineticTypographyTuesdays or something like that l
 
 "We must be willing to let go of the life we've planned so as to have the life that is waiting for us" - Joseph Campbell (2/365)
 
-<a href="https://www.youtube.com/watch?v=awPP005dJ_c"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/awPP005dJ_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Time lapse of me inking my last piece, with some cliché motivation words. The Naked And Famous - I Kill Giants (3/365)
 
@@ -33,7 +29,7 @@ Time lapse of me inking my last piece, with some cliché motivation words. The N
 
 Not sure if my favorite part of yesterday was actually skating or skating home. Took a few quick pictures on my phone of the amazing sunset and ended up with this happy accident, with some bokeh action going on. (4/365)
 
-<a href="https://www.youtube.com/watch?v=WwJKqeCc-YA"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WwJKqeCc-YA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Trying new things with this zoom out time-lapse, but it's a little choppy because I didn't know what I was doing lol. Lana Del Rey - American (5/365)
 
@@ -41,11 +37,11 @@ Trying new things with this zoom out time-lapse, but it's a little choppy becaus
 
 Some Yoncé lettering. (6/365)
 
-<a href="https://www.youtube.com/watch?v=LD98-TjJ_es"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LD98-TjJ_es" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Drunk in Love. (7/365)
 
-<a href="https://www.youtube.com/watch?v=UPu_1SVJziQ"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UPu_1SVJziQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Here's some kinetic type of "Best Friend" by Foster. Really been liking this song lately.
 
