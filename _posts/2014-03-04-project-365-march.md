@@ -7,7 +7,7 @@ tags: [design, personal project, project 365]
 
 These are my lettering pieces from March 2014, **the 1st month and the beginning of my Project 365.** This is a project to create a new lettering piece every day for a year. This project was originally shared on my [Instagram](http://instagram.com/heyimdane) account – Watch the [Project 365 Recap Video](http://danegonzalez.com/365) and discover the "36.5 Things I've Learned from Creating Everyday for 365 Days" [Blog Post](http://danegonzalez.com/365)
 
-<a href="http://danegonzalez.com/wp-content/uploads/2015/02/0.jpg"></a>
+<a href="http://danegonzalez.com/wp-content/uploads/2015/02/0-1024x762.jpg"></a>
 
 With the end of my magazine, I have been vaguely mentioning moving on to bigger and better things and projects, but actually I have been ready to move on to one specific project I have been thinking about for a really long time now and am finally ready to share it with all of you.
 
