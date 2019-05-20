@@ -7,13 +7,13 @@ tags: [design, personal project, project 365]
 
 These are my lettering pieces from March 2014, **the 1st month and the beginning of my Project 365.** This is a project to create a new lettering piece every day for a year. This project was originally shared on my [Instagram](http://instagram.com/heyimdane) account – Watch the [Project 365 Recap Video](http://danegonzalez.com/365) and discover the "36.5 Things I've Learned from Creating Everyday for 365 Days" [Blog Post](http://danegonzalez.com/365)
 
-![](http://danegonzalez.com/wp-content/uploads/2015/02/0-1024x762.jpg)
+![] (http://danegonzalez.com/wp-content/uploads/2015/02/0-1024x762.jpg)
 
 With the end of my magazine, I have been vaguely mentioning moving on to bigger and better things and projects, but actually I have been ready to move on to one specific project I have been thinking about for a really long time now and am finally ready to share it with all of you.
 
 I will be beginning the project of creating something everyday for 365 days. I have the insatiable desire to get better everyday and believe this project will hold me accountable to this goal of mine. I want to create something of worth each day, and it may not be a different message each day, but it will be a different medium. This is because part of this project is me showing my design process. I want to show how I work. So, for example, I may show a drawing one day, a vector image of that drawing the next day, and the end result apply that vector to a video. I will begin this starting tomorrow and the hashtag will be #dg365 and as much as this project is for me, I hope I can inspire you guys through my work. So, hope you guys enjoy!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pei_Wn1qE5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pei_Wn1qE5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 [](https://www.youtube.com/watch?v=pei_Wn1qE5I)
 
