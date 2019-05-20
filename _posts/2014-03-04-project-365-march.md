@@ -14,7 +14,7 @@ With the end of my magazine, I have been vaguely mentioning moving on to bigger 
 I will be beginning the project of creating something everyday for 365 days. I have the insatiable desire to get better everyday and believe this project will hold me accountable to this goal of mine. I want to create something of worth each day, and it may not be a different message each day, but it will be a different medium. This is because part of this project is me showing my design process. I want to show how I work. So, for example, I may show a drawing one day, a vector image of that drawing the next day, and the end result apply that vector to a video. I will begin this starting tomorrow and the hashtag will be #dg365 and as much as this project is for me, I hope I can inspire you guys through my work. So, hope you guys enjoy!
 
 <div class="video-responsive">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pei_Wn1qE5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pei_Wn1qE5I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </div>
 
 [](https://www.youtube.com/watch?v=pei_Wn1qE5I)
