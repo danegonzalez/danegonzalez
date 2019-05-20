@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Project 365: March]
+title: Project 365 March
 categories: [journal, projects]
 tags: [design, personal project, project 365]
 ---
