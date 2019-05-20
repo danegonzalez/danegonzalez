@@ -13,7 +13,7 @@ With the end of my magazine, I have been vaguely mentioning moving on to bigger 
 
 I will be beginning the project of creating something everyday for 365 days. I have the insatiable desire to get better everyday and believe this project will hold me accountable to this goal of mine. I want to create something of worth each day, and it may not be a different message each day, but it will be a different medium. This is because part of this project is me showing my design process. I want to show how I work. So, for example, I may show a drawing one day, a vector image of that drawing the next day, and the end result apply that vector to a video. I will begin this starting tomorrow and the hashtag will be #dg365 and as much as this project is for me, I hope I can inspire you guys through my work. So, hope you guys enjoy!
 
-<a href="https://www.youtube.com/watch?v=pei_Wn1qE5I"></a>
+[](https://www.youtube.com/watch?v=pei_Wn1qE5I)
 
 I think ima do something like KineticTypographyTuesdays or something like that lol but I won't name it that cause it's too awkward lol. Anyway, I thought this song was appropriate on beginning this project. HAIM - Falling. (1/365)
 
