@@ -5,7 +5,7 @@ categories: [journal, projects]
 tags: [design, personal project, unspecified mag]
 ---
 
-The following is the archive of my independently published magazine, Unspecified Mag, in *reverse chronological* order. **This was a year long project devoted to providing exposure to local artists, individuals, and groups.** Unspecified Mag was a seasonal magazine and it began in January 2013 and was hibernated in March 2014. Read my [Parting Words](/parting-words) article to learn why I moved on from the magazine.
+The following is the archive of my independently published magazine, Unspecified Mag, in *reverse chronological* order. **This was a year long project devoted to providing exposure to local artists, individuals, and groups.** Unspecified Mag was a seasonal magazine and it began in January 2013 and was hibernated in March 2014. Read my [Parting Words](/parting-words/) article to learn why I moved on from the magazine.
 
 
 ## The Final Issue: Operation Sharing
