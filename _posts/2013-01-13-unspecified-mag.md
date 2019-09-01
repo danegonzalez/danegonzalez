@@ -5,7 +5,7 @@ categories: [journal, projects]
 tags: [design, personal project, unspecified mag]
 ---
 
-The following is the archive of my independently published magazine, Unspecified Mag, in *reverse chronological* order. **This was a year long project devoted to providing exposure to local artists, individuals, and groups.** Unspecified Mag was a seasonal magazine and it began in January 2013 and was hibernated in March 2014. Read my [Parting Words](https://danegonzalez.com/parting-words) article to learn why I moved on from the magazine.
+The following is the archive of my independently published magazine, Unspecified Mag, in *reverse chronological* order. **This was a year long project devoted to providing exposure to local artists, individuals, and groups.** Unspecified Mag was a seasonal magazine and it began in January 2013 and was hibernated in March 2014. Read my [Parting Words](/parting-words) article to learn why I moved on from the magazine.
 
 
 ## The Final Issue: Operation Sharing
@@ -53,7 +53,7 @@ The first issue of Unspecified Mag. The winter 2013 issue featuring local skate 
 ### [View Issue] [UM Winter 2013]
 
 
-[UM Final Issue]: https://danegonzalez.com/wp-content/uploads/2015/02/5.-The-Final-Issue-Unspecified-Mag.pdf "The Final Issue: Operation Sharing"
+[UM Final Issue]: /wp-content/uploads/2015/02/5.-The-Final-Issue-Unspecified-Mag.pdf "The Final Issue: Operation Sharing"
 [UM Fall 2013]: https://danegonzalez.com/assets/pdf/4.-Fall-2013-Unspecified-Mag.pdf "Fall 2013: Lauren Novencido"
 [UM Summer 2013]:  https://danegonzalez.com/assets/pdf/3.-Summer-2013-Unspecified-Mag.pdf "Summer 2013: Bloo Note"
 [UM Spring 2013]:	https://danegonzalez.com/assets/pdf/2.-Spring-2013-Unspecified-Mag.pdf "Spring 2013: VQ Fitness"
