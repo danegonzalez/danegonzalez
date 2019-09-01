@@ -2,4 +2,4 @@ title: Dane Gonzalez
 author: Dane
 email: your-email@domain.com
 theme: minima
-permalink: /:title:output_ext
+permalink: /:name
